@@ -1,4 +1,3 @@
-ais@ais-virtual-machine:~/Adversarial-PSI$ python3 run_atk.py 00020d785bc1c88375ba1fa072cdc8d8
 {'sub_4027E8': 2, 'sub_401FB4': 1, 'sub_4022B8': 1, 'sub_402630': 1}
 0002a328c42751880bbdd991d6c393e4
 {'main': 3, 'cleandevices': 2, 'getOurIP': 1, 'sendHTTP': 1, 'StartTheLelz': 1}
